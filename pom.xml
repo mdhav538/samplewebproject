@@ -67,11 +67,12 @@
 		</pluginManagement>
 	</build>
 	<distributionManagement>
-		<repository>
+		<!--  <repository>
 			<id>nexus</id>
 			<name>Nexus Releases</name>
 			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
+		 -->
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>Nexus Snapshot</name>
