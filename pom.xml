@@ -68,7 +68,7 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>nexus-releases</id>
+			<id>nexus</id>
 			<name>Nexus Releases</name>
 			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
@@ -78,7 +78,7 @@
 			<url>http://localhost:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 		<site>
-			<id>nexus-sites</id>
+			<id>nexus</id>
 			<name>Nexus Sites</name>
 			<url>dav:http://localhost:8081/nexus/content/sites/site/</url>
 		</site>
