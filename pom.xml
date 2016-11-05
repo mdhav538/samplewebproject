@@ -4,7 +4,7 @@
 	<groupId>de.unimannheim</groupId>
 	<artifactId>samplewebproject</artifactId>
 	<packaging>war</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 	<name>samplewebproject Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
@@ -127,7 +127,6 @@
 			<artifactId>guava</artifactId>
 			<version>20.0</version>
 		</dependency>
-
 	</dependencies>
 
 	<!-- <profiles> <profile> <id>release</id> <build> <plugins> <plugin> <groupId>org.apache.maven.plugins</groupId> 
