@@ -21,4 +21,12 @@ public class EmpBusinessLogic {
 
 		return appraisal;
 	}
+	
+	// Calculate the appraisal amount of employee
+	public double calculateAppraisal(String employeeDetails) {
+		double appraisal = 0;
+
+		
+		return appraisal;
+	}
 }
