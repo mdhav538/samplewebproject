@@ -26,15 +26,8 @@ public class TestEmployeeDetails {
 			
 		}
 	}
-	
-	private class InnerClass1 {
-		
-		public void innerClassMethod(String value1) {
-			
-		}
-	}
 
-	public void testCalculateAppriasalwithParameters(int value) {
+	public void testCalculateAppriasal(int value) {
 		
 	}
 
