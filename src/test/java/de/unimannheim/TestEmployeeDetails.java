@@ -25,10 +25,10 @@ public class TestEmployeeDetails {
 		public void innerClassMethod(String value1) {
 			
 		}
-	}
-
-	public void testCalculateAppriasal(int value) {
 		
+		public void testCalculateAppriasal(int value) {
+			
+		}
 	}
 
 	// test to check yearly salary
