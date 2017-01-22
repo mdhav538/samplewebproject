@@ -26,7 +26,7 @@ public class TestEmployeeDetails {
 			
 		}
 		
-		public void testCalculateAppriasalWithParameter(int value) {
+		public void testCalculateAppriasal(int value) {
 			
 		}
 	}
