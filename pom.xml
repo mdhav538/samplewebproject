@@ -81,7 +81,8 @@
 			</plugin>
 		</plugins>
 	</build>
- 	<distributionManagement>
+ 	<!--
+ 	 <distributionManagement>
 		<repository>
 			<id>release.build</id>
 			<name>Nexus Releases</name>
@@ -98,7 +99,7 @@
 			<url>dav:http://localhost:8081/nexus/content/sites/site/</url>
 		</site>
 	</distributionManagement>
- 
+  -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
